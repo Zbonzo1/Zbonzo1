@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMxODQ2YzZlOGE2Yzk0NDQxYWJiN2U3MmY4YTMyMzk0YTQ5YWYyYSZjdD1n/4rL0k8t2mSmWbzO8fl/giphy.gif" width="250"/>
 </div>
+
+
+---
+<div id="header" align = "center">
+<img src="https://komarev.com/ghpvc/?username=annan92419&style=flat-square&color=blue" alt=""/>
+</div>
+
 ---
 
 
@@ -28,7 +35,7 @@ Here are some ideas to get you started:
 #### :man_technologist: About Me
 
 <p>
-  I am Jesse Annan, a motivated young student interested in solving problems, investing time and energy to overcome roadblocks, and learning from mistakes. I yearn to establish myself in the tech space, preferably in Machine Learning. Hence, I am working towards becoming a mathematician, machine learning engineer, and lifelong researcher in both mathematics and machine learning space. <br>
+  I am Zion Bonzo, a motivated young student interested in solving problems, investing time and energy to overcome roadblocks, and learning from mistakes. I yearn to establish myself in the tech space, preferably in Machine Learning. Hence, I am working towards becoming a mathematician, machine learning engineer, and lifelong researcher in both mathematics and machine learning space. <br>
   :zap: Fun fact: I enjoy watching :soccer::football::basketball::ice_hockey::wrestling::boxing_glove:; thus, I would love to explore the space of sports science with my growing knowledge of sports, mathematics, and machine learning.
  </p>
 

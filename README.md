@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p>
   I am Zion Bonzo, a motivated young student interested in solving problems, investing time and energy to overcome roadblocks, and learning from mistakes. I yearn to establish myself in the tech space, preferably in Machine Learning. Hence, I am working towards becoming a mathematician, machine learning engineer, and lifelong researcher in both mathematics and machine learning space. <br>
-  :zap: Fun fact: I enjoy teaching what I know and I love watching football and I would love to explore the space of sports science with my growing knowledge of sports, mathematics, and machine learning.
+  :zap: Fun fact: I enjoy teaching what I know and I love watching football.
  </p>
 
 

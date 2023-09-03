@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 <p>
   I am Zion Bonzo, a motivated young student interested in solving problems, investing time and energy to overcome roadblocks, and learning from mistakes. I yearn to establish myself in the tech space, preferably in Machine Learning. Hence, I am working towards becoming a mathematician, machine learning engineer, and lifelong researcher in both mathematics and machine learning space. <br>
-  :zap: Fun fact: I enjoy watching :soccer::football::basketball::ice_hockey::wrestling::boxing_glove:; thus, I would love to explore the space of sports science with my growing knowledge of sports, mathematics, and machine learning.
+  :zap: Fun fact: I enjoy teaching what I know and I love watching football and I would love to explore the space of sports science with my growing knowledge of sports, mathematics, and machine learning.
  </p>
 
-- :man_student: I am working on a second degree in Maths - scientific computing concentration.
+- :man_student: I do Data Analytics, Business Intelligence & Data Visualisation..
 - :seedling: I am studying Data Science and Machine Learning on [DataCamp](https://app.datacamp.com/profile/jannan).
-- 👯 I am open to collaborating on any data related project.
+- 👯 I am open to collaborating on any data-related project.
 - :zap: In my spare time, I spend time listening to podcasts about Data Science, ML, and AI.
 - :nerd_face: I am an anime, manga, and sports nerd.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zbonzo1)

@@ -35,10 +35,11 @@ Here are some ideas to get you started:
   :zap: Fun fact: I enjoy teaching what I know and I love watching football and I would love to explore the space of sports science with my growing knowledge of sports, mathematics, and machine learning.
  </p>
 
+
 - :man_student: I do Data Analytics, Business Intelligence & Data Visualisation..
 - :seedling: Google Certified Data Analyst | Microsoft Certified Power BI Data Analyst | Excel | SQL.
 - 👯 I am open to collaborating on any data-related project.
-- :zap: In my spare time, I spend time listening to podcasts about Data Science, ML, and AI.
+- :zap: In my spare time, I spend time listening to podcasts about Statistics, Data Science, and ML.
 - :nerd_face: 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zbonzo1)
 

@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 #### :man_technologist: About Me
 
 <p>
-  I am Zion Bonzo, a motivated young student interested in solving problems, investing time and energy to overcome roadblocks, and learning from mistakes. I yearn to establish myself in the tech space, preferably in Machine Learning. Hence, I am working towards becoming a mathematician, machine learning engineer, and lifelong researcher in both mathematics and machine learning space. <br>
+ I am passionate about using data to drive business growth, and I am constantly seeking to improve my skills and learn new techniques to provide better insights to stakeholders. With my skills and experience, I am confident in my ability to make a significant impact in any organization I work with. <br>
   :zap: Fun fact: I enjoy teaching what I know and I love watching football.
  </p>
 
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 - :man_student: I do Data Analytics, Business Intelligence & Data Visualisation..
 - :seedling: Google Certified Data Analyst | Microsoft Certified Power BI Data Analyst | Excel | SQL.
 - 👯 I am open to collaborating on any data-related project.
+- :nerd_face: I have an interest in Machine Learning and Statistics.
 - :zap: In my spare time, I spend time listening to podcasts about Statistics, Data Science, and ML.
-- :nerd_face: 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zbonzo1)
 
 

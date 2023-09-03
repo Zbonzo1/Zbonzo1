@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - :seedling: I am studying Data Science and Machine Learning on [DataCamp](https://app.datacamp.com/profile/jannan).
 - 👯 I am open to collaborating on any data-related project.
 - :zap: In my spare time, I spend time listening to podcasts about Data Science, ML, and AI.
-- :nerd_face: I am an anime, manga, and sports nerd.
+- :nerd_face: 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zbonzo1)
 
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Python Numpy" **alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Python Pandas" **alt="Pandas" width="40" height="40"/>&nbsp;
   <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>&nbsp;
-  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Matplotlib" height="40"/> </a>&nbsp;
+ --- <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Matplotlib" height="40"/> </a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" **alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40" height="40"/>
 </div>

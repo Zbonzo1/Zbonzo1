@@ -1,6 +1,5 @@
 ```python
 print("Hello World 👋, I'm Zion!")
-print('Welcome to page)
 ```
 
 <!--
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
  </p>
 
 - :man_student: I do Data Analytics, Business Intelligence & Data Visualisation..
-- :seedling: I am studying Data Science and Machine Learning on [DataCamp](https://app.datacamp.com/profile/jannan).
+- :seedling: Data Analyst | Google Certified Data Analyst | Microsoft Certified Power BI Data Analyst | Excel | SQL.
 - 👯 I am open to collaborating on any data-related project.
 - :zap: In my spare time, I spend time listening to podcasts about Data Science, ML, and AI.
 - :nerd_face: 

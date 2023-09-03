@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 👯 I am open to collaborating on any data related project.
 - :zap: In my spare time, I spend time listening to podcasts about Data Science, ML, and AI.
 - :nerd_face: I am an anime, manga, and sports nerd.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-annan97)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zbonzo1)
 
 
 ---

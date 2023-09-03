@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMxODQ2YzZlOGE2Yzk0NDQxYWJiN2U3MmY4YTMyMzk0YTQ5YWYyYSZjdD1n/4rL0k8t2mSmWbzO8fl/giphy.gif" width="250"/>
+</div>
 
 
 ---
@@ -55,8 +57,6 @@ Here are some ideas to get you started:
   <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/> </a>&nbsp;
   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Matplotlib" height="40"/> </a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" **alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VScode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40" height="40"/>
 </div>
 
@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 ---
 #### :fire: My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annan92419&theme=radical&include_all_commits=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zbonzo1&theme=radical&include_all_commits=true)](https://git.io/streak-stats)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=annan92419&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Zbonzo1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annan92419&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zbonzo1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Anime_snaps/kakashi.png" alt="Kakashi" style="float: left; margin-right: 10px;" width="200px" />
 
 
@@ -81,10 +81,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Zionbonzo">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/a_jesse24/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:zionbonzo50@gmail.com">
+    <a href="mailto:zionbonzo50@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
   

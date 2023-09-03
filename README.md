@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-<div id="header" align="center">
-  <img src="https://https://photos.app.goo.gl/NGV8Pd9R1SCPiJWK7" width="250"/>
-</div>
 
 
----
 <div id="header" align = "center">
 <img src="https://komarev.com/ghpvc/?username=Zbonzo1&style=flat-square&color=blue" alt=""/>
 </div>

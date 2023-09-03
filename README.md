@@ -22,13 +22,9 @@ Here are some ideas to get you started:
 </div>
 ---
 
----
-<div id="header" align = "center">
-<img src="https://komarev.com/ghpvc/?username=annan92419&style=flat-square&color=blue" alt=""/>
-</div>
 
 
----
+
 #### :man_technologist: About Me
 
 <p>
@@ -77,7 +73,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/zbonzo1">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/zbonzo">
+  <a href="https://twitter.com/Zionbonzo">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/a_jesse24/">

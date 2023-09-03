@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  </p>
 
 - :man_student: I do Data Analytics, Business Intelligence & Data Visualisation..
-- :seedling: Data Analyst | Google Certified Data Analyst | Microsoft Certified Power BI Data Analyst | Excel | SQL.
+- :seedling: Google Certified Data Analyst | Microsoft Certified Power BI Data Analyst | Excel | SQL.
 - 👯 I am open to collaborating on any data-related project.
 - :zap: In my spare time, I spend time listening to podcasts about Data Science, ML, and AI.
 - :nerd_face: 

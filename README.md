@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - :seedling: Google Certified Data Analyst | Microsoft Certified Power BI Data Analyst | Excel | SQL.
 - 👯 I am open to collaborating on any data-related project.
 - :nerd_face: I have an interest in Machine Learning and Statistics.
-- :zap: In my spare time, I spend time listening to podcasts about Statistics, Data Science, and ML.
+- :zap: In my spare time, I listen to podcasts about Statistics, Data Science, and ML.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zbonzo1)
 
 

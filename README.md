@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 
 ---
-#### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+#### Connect with me <img src="https://github.com/SatYu26/Zbonzo1/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/zbonzo1">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
